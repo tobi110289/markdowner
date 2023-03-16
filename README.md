@@ -3,7 +3,7 @@
 
 A simple and user-friendly Markdown editor for macOS with live preview, created with the help of OpenAI's GPT-4 and the Icon designed by Midjourney.
 
-<img src="./assets/markdowner.png" alt="preview of app" style="width: 20px" />
+<img src="./assets/markdowner.png" alt="preview of app" style="width: 300px" />
 
 ## Features
 

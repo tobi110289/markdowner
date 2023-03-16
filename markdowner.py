@@ -5,7 +5,7 @@ from PySide6.QtGui import QIcon, QAction
 from PySide6.QtWidgets import QApplication, QMainWindow, QTextEdit, QFileDialog, QSplitter, QVBoxLayout, QWidget
 
 
-class MarkdownEditor(QMainWindow):
+class Markdowner(QMainWindow):
     def __init__(self):
         super().__init__()
 
@@ -90,5 +90,5 @@ class MarkdownEditor(QMainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    md_editor = MarkdownEditor()
+    md_editor = Markdowner()
     sys.exit(app.exec())

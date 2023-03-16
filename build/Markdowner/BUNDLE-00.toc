@@ -1,0 +1,3 @@
+([('Markdowner',
+   '/Users/tobias/Documents/Projects/markdowner/dist/Markdowner',
+   'EXECUTABLE')],)
